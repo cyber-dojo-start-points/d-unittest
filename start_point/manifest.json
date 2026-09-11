@@ -1,9 +1,9 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/d_unittest:c55a8d2",
-  "display_name": "D 13.3.0, unittest",
+  "image_name": "ghcr.io/cyber-dojo-languages/d_unittest:b544e68",
+  "display_name": "D 13.3, unittest",
   "language": [
     "D",
-    "13.3.0"
+    "13.3"
   ],
   "test_framework": [
     "unittest",
