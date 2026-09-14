@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 3,
+  "truncated": false,
+  "match_counts": {
+    "^2 modules passed unittests$": 1,
+    "FAILED unittests": 0
+  }
+}

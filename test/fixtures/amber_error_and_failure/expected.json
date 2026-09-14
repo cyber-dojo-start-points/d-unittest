@@ -1,0 +1,10 @@
+{
+  "truncated": false,
+  "matches": [ "^Segmentation fault while running unittests:$" ],
+  "match_counts": {
+    "answer\\(\\) is three digits long": 0,
+    "\\[unittest\\]": 0,
+    "passed unittests": 0,
+    "FAILED unittests": 0
+  }
+}

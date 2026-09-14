@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 4,
+  "truncated": false,
+  "match_counts": {
+    "^debug: answer\\(\\) was called$": 1,
+    "^1 modules passed unittests$": 1,
+    "FAILED unittests": 0
+  }
+}

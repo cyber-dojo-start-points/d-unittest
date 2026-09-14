@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^hiker_test\\.d\\([0-9]+\\): \\[unittest\\] answer\\(\\) == 42$": 1,
+    "^1/2 modules FAILED unittests$": 1,
+    "\\[unittest\\]": 1,
+    "passed unittests": 0
+  }
+}

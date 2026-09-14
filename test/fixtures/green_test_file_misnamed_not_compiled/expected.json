@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 3,
+  "truncated": false,
+  "match_counts": {
+    "^1 modules passed unittests$": 1,
+    "answer\\(\\) is three digits long": 0,
+    "FAILED unittests": 0
+  }
+}

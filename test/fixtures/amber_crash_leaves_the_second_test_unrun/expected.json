@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "matches": [ "^Segmentation fault while running unittests:$" ],
+  "match_counts": {
+    "^the second test ran$": 0,
+    "passed unittests": 0,
+    "FAILED unittests": 0
+  }
+}

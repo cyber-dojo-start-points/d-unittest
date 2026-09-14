@@ -1,0 +1,11 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^hiker_test\\.d\\([0-9]+\\): \\[unittest\\] answer\\(\\) == 42$": 1,
+    "answer\\(\\) is three digits long": 0,
+    "answer\\(\\) is odd": 0,
+    "^1/1 modules FAILED unittests$": 1,
+    "\\[unittest\\]": 1,
+    "passed unittests": 0
+  }
+}

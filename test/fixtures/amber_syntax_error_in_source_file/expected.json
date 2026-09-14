@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^hiker\\.d:[0-9]+:[0-9]+: error: found '[}]' when expecting ';' following `return` statement$": 1,
+    "passed unittests": 0,
+    "FAILED unittests": 0
+  }
+}
