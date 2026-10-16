@@ -18,5 +18,5 @@ unittest
     assert(answer() % 2 == 1, "answer() is odd");
 }
 
-// gdc needs a main to link, though druntime runs the unittests instead of it.
+// The program needs a main to link, though druntime runs the unittests instead of it.
 void main() {}

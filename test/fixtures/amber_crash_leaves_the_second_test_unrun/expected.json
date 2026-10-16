@@ -1,7 +1,8 @@
 {
   "truncated": false,
-  "matches": [ "^Segmentation fault while running unittests:$" ],
+  "matches": [ "Segmentation fault" ],
   "match_counts": {
+    "^[^ ]+\\([^ ]*\\+0x[0-9a-f]+\\) \\[0x[0-9a-f]+\\]$": 0,
     "^the second test ran$": 0,
     "passed unittests": 0,
     "FAILED unittests": 0

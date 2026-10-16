@@ -1,7 +1,8 @@
 {
   "truncated": false,
-  "matches": [ "^Segmentation fault while running unittests:$" ],
+  "matches": [ "Segmentation fault" ],
   "match_counts": {
+    "^[^ ]+\\([^ ]*\\+0x[0-9a-f]+\\) \\[0x[0-9a-f]+\\]$": 0,
     "answer\\(\\) is three digits long": 0,
     "\\[unittest\\]": 0,
     "passed unittests": 0,

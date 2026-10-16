@@ -1,7 +1,7 @@
 {
   "truncated": false,
   "match_counts": {
-    "^hiker\\.d:[0-9]+:[0-9]+: error: found '6' when expecting ';' following statement$": 1,
+    "^hiker\\.d\\([0-9]+\\): Error: found `6` when expecting `;` following expression$": 1,
     "passed unittests": 0,
     "FAILED unittests": 0
   }
